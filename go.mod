@@ -15,6 +15,7 @@ require (
 	github.com/onsi/ginkgo v1.16.5
 	github.com/onsi/gomega v1.27.7
 	github.com/urfave/negroni v1.0.0
+	github.com/urfave/negroni/v3 v3.1.1
 	github.com/valyala/fasthttp v1.51.0
 )
 
